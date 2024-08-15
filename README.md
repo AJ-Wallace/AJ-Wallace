@@ -17,5 +17,8 @@ I am a student at Curtin University who is aiming to become the best developer I
 
 <img align='left' alt='Ubuntu' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
-<img align='left' alt='Ubuntu' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align='left' alt='Python' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img align='left' alt='Arch Linux' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+          
           
