@@ -22,4 +22,9 @@ I am a student at Curtin University who is aiming to become the best developer I
 <img align='left' alt='Arch Linux' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
           
 <img  align='left' alt='C' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-                   
+
+## 📈 Statistics
+
+![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=aj-wallace&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AJ-Wallace&theme=gruvbox&border_radius=4.5) -->
