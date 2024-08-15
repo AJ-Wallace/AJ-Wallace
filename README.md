@@ -14,3 +14,5 @@ I am a student at Curtin University who is aiming to become the best developer I
 ---
 
 ## Skills & Proficiencies
+
+<img align='left' alt='Ubuntu' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
