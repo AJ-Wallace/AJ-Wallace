@@ -22,6 +22,7 @@ I am a student at Curtin University who is aiming to become the best developer I
 <img align='left' alt='Arch Linux' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
           
 <img  align='left' alt='C' width='40px' style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<br />
 
 #
 
