@@ -10,3 +10,7 @@ I am a student at Curtin University who is aiming to become the best developer I
       <a href="https://github.com/AJ-Wallace?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AJ-Wallace?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+#
+
+## Skills & Proficiencies
