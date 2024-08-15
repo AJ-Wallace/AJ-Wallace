@@ -1,4 +1,4 @@
-# 🛹 Andrew Wallace
+# 🛹 AJ Wallace
 
 <code><b>Digital Blacksmith (Developer/Mechatronics Engineer/Filmmaker/Creator)</b></code>
 
