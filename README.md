@@ -30,4 +30,3 @@ I am a student at Curtin University who is aiming to become the best developer I
 
 ![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=aj-wallace&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AJ-Wallace&theme=gruvbox&border_radius=4.5) -->
