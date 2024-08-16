@@ -2,7 +2,11 @@
 
 <code><b>Digital Blacksmith (Developer/Mechatronics Engineer/Filmmaker/Creator)</b></code>
 
-I am a student at Curtin University who is aiming to become the best developer I can possibly be!
+I'm a dedicated student at Curtin University, currently diving deep into the worlds of Computer Science and Mechatronic Engineering. My journey in tech began with a passion for Python, which has led me to create productivity software for Windows and build small but impactful terminal-based applications.
+
+As I expand my horizons, I'm eager to explore mobile development, web development, and full-stack engineering. My ultimate goal? To reach the innovation hubs of Silicon Valley and develop transformative software that can truly change lives.
+
+When I'm not coding, you'll find me tinkering with tech—building, fixing, and pushing the boundaries of what's possible. I'm always on the lookout for new challenges and opportunities to grow, so feel free to connect and let's create something extraordinary together!
 
    <p align="left">
       <a href="https://github.com/AJ-Wallace?tab=followers">
