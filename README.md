@@ -34,6 +34,8 @@ When I'm not coding, you'll find me tinkering with tech—building, fixing, and 
 <img align='left' alt='CSS' width='40px' style='padding-right:5px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img align='left' alt='CSS' width='40px' style='padding-right:5px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align='left' alt='FIGMA' width='40px' style='padding-right:5px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
                    
           
 <br />
